@@ -34,3 +34,5 @@ jobs:
           heroku_app_name: 'fullstackopen-pokedex'
           heroku_email: 'jari.artes@gmail.com'
           procfile: 'web: npm run start-prod'
+          healthcheck: 'https://fullstackopen-pokedex.herokuapp.com/health'
+          checkstring: 'ok'
