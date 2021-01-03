@@ -1,15 +1,47 @@
-# Full Stack open CI/CD
+# HY full stack open 2020
 
-This repository is used for the CI/CD module of the Full stack open course
+# Osa 11 tehtävät
 
-Fork the repository to complete course exercises
+## 11.1 warming up
 
-## Commands
+Tehty.
 
-Start by running `npm install` inside the project folder
+## 11.2 the example project
 
-`npm start` to run the webpack dev server
-`npm test` to run tests
-`npm run eslint` to run eslint
-`npm run build` to make a production build
-`npm run start-prod` to run your production build
+Tehty.
+
+## 11.3 Hello world!
+
+Tehty.
+
+## 11.4 date and directory contents
+
+Tehty.
+
+## 11.5 Linting workflow
+
+Tehty.
+
+## 11.6 Fix the code
+
+Tehty.
+
+## 11.7 Building and testing
+
+Tehty.
+
+## 11.8 Back to green
+
+Tehty.
+
+## 11.9 Simple end to end -tests
+
+Tehty.
+
+## 11.10 Deploying your application to Heroku
+
+Tehty.
+
+## 11.11 Health check
+
+Tehty.
