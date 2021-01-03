@@ -45,3 +45,7 @@ Tehty.
 ## 11.11 Health check
 
 Tehty.
+
+## 11.12. Rollback
+
+Tehty.
