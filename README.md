@@ -61,3 +61,15 @@ Tehty.
 ## 11.15 run deployment step only for master branch
 
 Tehty.
+
+## 11.16 Adding versioning
+
+Tehty.
+
+## 11.17 Skipping a commit for tagging and deployment
+
+Tehty.
+
+## 11.18 Adding master protection
+
+Tehty.
