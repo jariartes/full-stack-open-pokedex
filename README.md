@@ -54,4 +54,10 @@ Tehty.
 
 Ei ole
 
-#
+## 11.14 pull request
+
+Tehty.
+
+## 11.15 run deployment step only for master branch
+
+Tehty.
