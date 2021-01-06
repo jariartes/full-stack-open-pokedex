@@ -80,4 +80,12 @@ Tehty. Integroin toiseen slackiin, teidän kutsunne oli jo expiroitunut.
 
 ## 11.20 Periodic health check
 
-Tekeillä.
+Tehty.
+
+## 11.21 Your own pipeline
+
+Tehty. Repo on https://github.com/jariartes/ex11.21.
+
+## 11.22 Protect master and ask for pull request
+
+Tehty.
