@@ -73,3 +73,11 @@ Tehty.
 ## 11.18 Adding master protection
 
 Tehty.
+
+## 11.19 Build success/failure notification action
+
+Tehty. Integroin toiseen slackiin, teidän kutsunne oli jo expiroitunut.
+
+## 11.20 Periodic health check
+
+Tekeillä.
